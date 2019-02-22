@@ -12,7 +12,7 @@ Otherwise, you'll need to install the necessary R packages.
 First install the dependencies:
 From within a sudo-ed R session type:
 
-	> install.packages(c("metafor","lme4","MCMCpack","igraph"))
+	> install.packages(c("metafor", "lme4", "MCMCpack", "igraph", "shiny", "shinythemes", "dplyr", "readr"))
 
 
 	
