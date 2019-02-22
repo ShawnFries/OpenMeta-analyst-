@@ -6,8 +6,8 @@ library(readr)
 For now this section is just replicating the official R shiny app tutorial: https://shiny.rstudio.com/ for testing some things
 
 # Load data
-trend_data <- read_csv("data/trend_data.csv")
-trend_description <- read_csv("data/trend_description.csv")
+trend_data <- ''
+trend_description <- ''
 
 # Define UI
 ui <- fluidPage(theme = shinytheme("lumen"),
